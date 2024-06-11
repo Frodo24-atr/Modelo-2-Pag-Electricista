@@ -463,14 +463,6 @@
       border-radius: 20px;
       background-color: #000000ed;
     }
-
-    button.prev {
-      display: none;
-    }
-    
-    button.next {
-      display: none;
-    }
   
     .item {
       width: 50%;
