@@ -145,7 +145,7 @@
       justify-content: center;
       align-items: center;
       margin-top: 1.2rem;
-      width: 90%;
+      width: 100%;
     }
   
     .card {
@@ -462,6 +462,14 @@
       width: 90%;
       border-radius: 20px;
       background-color: #000000ed;
+    }
+
+    button.prev {
+      display: none;
+    }
+    
+    button.next {
+      display: none;
     }
   
     .item {
